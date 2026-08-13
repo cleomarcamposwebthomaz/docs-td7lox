@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-4qta8x.shadowdiary.com/sitemap.xml
